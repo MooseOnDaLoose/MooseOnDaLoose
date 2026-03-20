@@ -1,8 +1,11 @@
 <div align="center">
 
-# Hey there, I'm MooseOnDaLoose 👋
+# Hi, I'm Mason Morse 👋
 
-### Passionate Developer | Open-Source Enthusiast | Problem Solver
+### **Biomedical Engineering Student @ Texas A&M University | Founder of M-Bar Operations**
+
+Driven by an insatiable curiosity about how and why things work, I founded [M-Bar Operations](https://mason.mbaroperations.com/#projects). Through this, I have gained invaluable real-world experiences that extend far beyond classroom learning.
+I am currently pursuing a degree in Biomedical Engineering at Texas A&M University where I am exploring the intersection of programming, medical devices, and enterprise network infrastructure.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MooseOnDaLoose&color=blueviolet&style=flat-square)](https://github.com/MooseOnDaLoose)
 [![GitHub followers](https://img.shields.io/github/followers/MooseOnDaLoose?label=Followers&style=flat-square&color=blueviolet)](https://github.com/MooseOnDaLoose?tab=followers)
@@ -11,17 +14,30 @@
 
 ---
 
-## 🙋 About Me
+##  Areas of Focus
 
-- 🔭 I'm currently working on exciting open-source projects
-- 🌱 I'm always learning new technologies and expanding my skill set
-- 👯 I'm looking to collaborate on impactful and innovative projects
-- 💬 Ask me about software development, open-source, and best practices
-- ⚡ Fun fact: I write cleaner code after a good cup of coffee ☕
+- Medical device development
+- Enterprise cloud & network infrastructure
+- Precision CNC & mechanical fabrication
+- Commercial AV systems & automation
 
 ---
 
-## 🛠️ Skills & Technologies
+## 📊 GitHub Stats
+
+<div align="center">
+
+![MooseOnDaLoose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MooseOnDaLoose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MooseOnDaLoose&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MooseOnDaLoose&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+##  Skills & Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -44,33 +60,17 @@
 
 ---
 
-## 📊 GitHub Stats
+##  Connect With Me
 
 <div align="center">
 
-![MooseOnDaLoose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MooseOnDaLoose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MooseOnDaLoose&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MooseOnDaLoose&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MooseOnDaLoose)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masonmorse/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mason.mbaroperations.com/)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐ Feel free to explore my repositories and leave a star if you find something useful!</i>
+  <i> Feel free to explore my repositories and leave a star if you find something useful</i>
 </div>
