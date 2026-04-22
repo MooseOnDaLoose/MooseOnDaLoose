@@ -22,7 +22,7 @@ I am currently pursuing a degree in Biomedical Engineering at Texas A&M Universi
 - Commercial AV systems & automation
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -36,6 +36,7 @@ I am currently pursuing a degree in Biomedical Engineering at Texas A&M Universi
 </div>
 
 ---
+-->
 
 ##  Skills & Technologies
 
