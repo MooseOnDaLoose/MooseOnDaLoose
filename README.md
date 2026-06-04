@@ -7,9 +7,6 @@
 Driven by an insatiable curiosity about how and why things work, I founded [M-Bar Operations](https://mason.mbaroperations.com/#projects). Through this, I have gained invaluable real-world experiences that extend far beyond classroom learning.
 I am currently pursuing a degree in Biomedical Engineering at Texas A&M University where I am exploring the intersection of programming, medical devices, and enterprise network infrastructure.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MooseOnDaLoose&color=blueviolet&style=flat-square)](https://github.com/MooseOnDaLoose)
-[![GitHub followers](https://img.shields.io/github/followers/MooseOnDaLoose?label=Followers&style=flat-square&color=blueviolet)](https://github.com/MooseOnDaLoose?tab=followers)
-
 </div>
 
 ---
@@ -36,7 +33,6 @@ I am currently pursuing a degree in Biomedical Engineering at Texas A&M Universi
 </div>
 
 ---
--->
 
 ##  Skills & Technologies
 
@@ -60,6 +56,7 @@ I am currently pursuing a degree in Biomedical Engineering at Texas A&M Universi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
+-->
 
 ##  Connect With Me
 
